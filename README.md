@@ -5,9 +5,13 @@
 Bienvenido a mi perfil de GitHub. Soy un desarrollador fullstack con experiencia en una amplia gama de lenguajes de programación y tecnologías. Me apasiona construir y contribuir a proyectos que desafían mi creatividad y habilidades técnicas.
 
 ### 🛠 Habilidades
-- **Lenguajes de Programación:** Python, JavaScript, Scala, Java, Dart, C
+- **Lenguajes de Programación:** Python, Scala, JavaScript, Java, Dart, C
 - **Bases de Datos:** MySQL, PostgreSQL, Firebase
 - **Frameworks y Tecnologías:** React, Flutter, React Native
+
+#### Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-Barros&layout=compact&theme=tokyonight)
+
 
 ### 💡 Proyectos Destacados
 - [Gwen-t](https://github.com/DR-Barros/gwen-t-DR-Barros) - Juego desarrollado en Scala en el cual se implementan buenas practicas de POO
@@ -28,9 +32,9 @@ Aunque prefiero mantener cierta privacidad en cuanto a mis datos de contacto dir
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DR-Barros&show_icons=true&theme=tokyonight)
 
-### 🏅 Badges
+#### 🔥 Racha de Contribuciones
+![racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=DR-Barros&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-Barros&layout=compact&theme=tokyonight)
 
 ---
 
