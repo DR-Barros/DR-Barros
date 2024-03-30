@@ -26,7 +26,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador fullstack con experiencia
 - Espero mejorar mis habilidades en proyectos de machine learning.
 
 ### 📫 Cómo contactarme
-Aunque prefiero mantener cierta privacidad en cuanto a mis datos de contacto directo en plataformas abiertas, te animo a que te conectes conmigo a través de [LinkedIn](www.linkedin.com/in/danielradriganbarros) o sígueme en GitHub para estar al tanto de mis proyectos y colaboraciones.
+Aunque prefiero mantener cierta privacidad en cuanto a mis datos de contacto directo en plataformas abiertas, te animo a que te conectes conmigo a través de [LinkedIn](https://www.linkedin.com/in/danielradriganbarros) o sígueme en GitHub para estar al tanto de mis proyectos y colaboraciones.
 
 ### 📊 Mis estadísticas en GitHub
 
