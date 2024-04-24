@@ -19,11 +19,12 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador fullstack con experiencia
 - [Tarea 3 - Desarrollo de Aplicaciones Web](https://github.com/DR-Barros/Tarea3-DesarrolloDeAplicacionesWeb) - Proyecto Flask de desarrollo Web
 - [Tarea 3 - Modelamiento](https://github.com/DR-Barros/tarea3-modelamiento) - Proyecto Python de un sistema solar modelado en 3d en el cual se puede manejar una nave espacial.
 - [App Reviewer](https://github.com/MartinEBravo/App-Reviewer) - Colaboración en un proyecto de minería de datos enfocada en las reviews de threads.
+- [App Finanzas peronales](https://github.com/DR-Barros/appFinanzas) - Aplicación desarrollada en flutter para manejar finanzas personales.
 
 ### 🌱 Actualmente estoy aprendiendo...
 - Profundizando en el desarrollo de aplicaciones móviles con Flutter y en paginas web con React.
 - Explorando nuevas arquitecturas y patrones de diseño para aplicaciones escalables.
-- Espero mejorar mis habilidades en proyectos de machine learning.
+- Realizando trabjo dirigido para profundiza en temas de machine learning, más especificamente con un clasificador basado en la teoria  de Dempster-Shafer.
 
 ### 📫 Cómo contactarme
 Aunque prefiero mantener cierta privacidad en cuanto a mis datos de contacto directo en plataformas abiertas, te animo a que te conectes conmigo a través de [LinkedIn](https://www.linkedin.com/in/danielradriganbarros) o sígueme en GitHub para estar al tanto de mis proyectos y colaboraciones.
