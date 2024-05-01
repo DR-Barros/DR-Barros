@@ -2,7 +2,7 @@
 
 ## Desarrollador de Software Fullstack
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador fullstack con experiencia en una amplia gama de lenguajes de programación y tecnologías. Me apasiona construir y contribuir a proyectos que desafían mi creatividad y habilidades técnicas.
+Bienvenido a mi perfil de GitHub. Soy un estudiante de Ingenieria Civil en Computación la Universidad de Chile y desarrollador fullstack con experiencia en una amplia gama de lenguajes de programación y tecnologías. Me apasiona construir y contribuir a proyectos que desafían mi creatividad y habilidades técnicas.
 
 ### 🛠 Habilidades
 - **Lenguajes de Programación:** Python, Scala, JavaScript, Java, Dart, C
@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador fullstack con experiencia
 - **Frameworks y Tecnologías:** React, Flutter, React Native
 
 #### Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-Barros&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-Barros&layout=compact&theme=tokyonight&langs_count=10)
 
 
 ### 💡 Proyectos Destacados
@@ -24,7 +24,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador fullstack con experiencia
 ### 🌱 Actualmente estoy aprendiendo...
 - Profundizando en el desarrollo de aplicaciones móviles con Flutter y en paginas web con React.
 - Explorando nuevas arquitecturas y patrones de diseño para aplicaciones escalables.
-- Realizando trabjo dirigido para profundiza en temas de machine learning, más especificamente con un clasificador basado en la teoria  de Dempster-Shafer.
+- Realizando un trabjo dirigido para profundizar en temas de machine learning, más especificamente trabajando con un clasificador basado en la teoria de Dempster-Shafer.
 
 ### 📫 Cómo contactarme
 Aunque prefiero mantener cierta privacidad en cuanto a mis datos de contacto directo en plataformas abiertas, te animo a que te conectes conmigo a través de [LinkedIn](https://www.linkedin.com/in/danielradriganbarros) o sígueme en GitHub para estar al tanto de mis proyectos y colaboraciones.
