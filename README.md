@@ -7,7 +7,7 @@
 ### 🛠 Habilidades
 - **Lenguajes de Programación:** Python, Scala, JavaScript, Java, Dart, C
 - **Bases de Datos:** MySQL, PostgreSQL, Firebase
-- **Frameworks y Tecnologías:** React, Flutter, React Native
+- **Frameworks y Tecnologías:** React, Flutter, React Native, Django
 
 #### Lenguajes más utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-Barros&layout=compact&theme=tokyonight&langs_count=10&hide=Jupyter%20Notebook)
