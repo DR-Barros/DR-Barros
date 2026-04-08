@@ -1,13 +1,34 @@
 # ¡Hola! Soy Daniel Radrigán 👋
 
-## Desarrollador de Software Fullstack | Estudiante de Ingeniería Civil en Computación | Apasionado de la tecnología
+## 💻 Ingeniero de Software | Data & ML | Fullstack
 
-¡Bienvenido a mi perfil de GitHub! Soy estudiante de Ingeniería Civil en Computación en la Universidad de Chile y desarrollador fullstack con experiencia en una amplia gama de lenguajes de programación y tecnologías. Me apasiona construir y contribuir a proyectos que desafíen mi creatividad y habilidades técnicas.
+Soy Ingeniero Civil en Computación de la Universidad de Chile con experiencia en desarrollo de software, procesamiento de datos y construcción de soluciones orientadas a impacto real.
 
-### 🛠 Habilidades
-- **Lenguajes de Programación:** Python, Scala, JavaScript, Java, Dart, C
-- **Bases de Datos:** MySQL, PostgreSQL, Firebase, AWS
-- **Frameworks y Tecnologías:** React, Flutter, React Native, Django, Flask, Dash
+He trabajado en desarrollo de aplicaciones web, automatización de procesos y pipelines de datos, además de integrar modelos de lenguaje (LLMs) para extracción estructurada de información. También tengo experiencia en problemas más avanzados como clasificación de datos multimodales y procesamiento de trayectorias geoespaciales.
+
+🚀 Me interesa trabajar en roles donde pueda combinar **ingeniería de software + datos + sistemas escalables**.
+
+---
+
+## 🌐 Portfolio
+👉 https://dr-barros.github.io/portfolio/
+
+### Frameworks & Librerías
+- React, Flutter, React Native  
+- Django, Flask  
+- Pandas, Dash  
+
+### Datos & Backend
+- PostgreSQL, MySQL, Firebase  
+- Construcción de pipelines de datos  
+- Web scraping y automatización  
+
+### Otros
+- AWS  
+- Integración de APIs y LLMs  
+- Procesamiento de datos geoespaciales  
+
+---
 
 #### Lenguajes más utilizados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-Barros&layout=compact&theme=tokyonight&langs_count=10&hide=Jupyter%20Notebook,HTML)
@@ -20,10 +41,14 @@
 - [App Reviewer](https://github.com/MartinEBravo/App-Reviewer) - Colaboración en un proyecto de minería de datos enfocado en las reseñas de threads.
 - [App Finanzas personales](https://github.com/DR-Barros/appFinanzas) - Aplicación desarrollada en Flutter para manejar finanzas personales.
 
-### 🌱 Actualmente estoy aprendiendo...
-- Profundizando en el desarrollo de aplicaciones móviles con Flutter y en páginas web con React.
-- Explorando nuevas arquitecturas y patrones de diseño para aplicaciones escalables.
-- Realizando un trabajo dirigido para profundizar en temas de machine learning, específicamente trabajando con un clasificador basado en la teoría de Dempster-Shafer.
+## 🧠 Experiencia relevante
+
+- Desarrollo de aplicaciones web para monitoreo operacional  
+- Automatización de reportería y procesamiento de datos  
+- Uso de LLMs para extracción de información desde PDFs/Excel  
+- Clasificación de modos de transporte con datos de sensores (GPS, acelerómetro, giroscopio)  
+- Procesamiento de trayectorias y map matching con datos geoespaciales  
+
 
 ### 📫 Cómo contactarme
 Aunque prefiero mantener cierta privacidad en cuanto a mis datos de contacto directo en plataformas abiertas, te animo a que te conectes conmigo a través de [LinkedIn](https://www.linkedin.com/in/danielradriganbarros) o sígueme en GitHub para estar al tanto de mis proyectos y colaboraciones.
